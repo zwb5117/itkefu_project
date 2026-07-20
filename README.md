@@ -1,4 +1,4 @@
-# ITS Multi-Agent 智能客服系统
+# 多智能体电脑售后客服系统
 
 基于 FastAPI + OpenAI Agents SDK 构建的 **多智能体电脑售后客服系统**，通过主调度智能体（Orchestrator）协调多个专业子智能体，为用户提供 IT 技术支持、服务站查询、地图导航、实时资讯等一站式智能服务。
 
